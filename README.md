@@ -80,4 +80,6 @@ Rural regions show moderate activity but higher interest in low-discount and ess
 
 This project is part of my portfolio, showcasing the Data Analysis skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
+![linked.in : ](https://www.linkedin.com/in/charankothur/)
+
 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning.🚀
