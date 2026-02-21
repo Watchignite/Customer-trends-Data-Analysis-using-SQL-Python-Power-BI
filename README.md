@@ -25,7 +25,8 @@ Prepare a concise and well-structured report summarizing the main findings, insi
 
 ![image](https://private-user-images.githubusercontent.com/72063042/500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE2NjAzNDQsIm5iZiI6MTc3MTY2MDA0NCwicGF0aCI6Ii83MjA2MzA0Mi81MDA3MzE3OTgtOGJiZDVkYzktZWI2Yy00MGMxLThmMTktYzA4YjQxMDdmNjU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIxVDA3NDcyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxMGFjZDFmNTk2MmI0ZjFlZGNhMWQ2MjE3NzkwMjZiYTczZGQxNDc5MTlmZjIwNzFkYmIxYzllODA5ZTBiZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c9bE3zSckgsIcJ207MNKX1jfSpm4ABNSGr-_01WtNkw)
 
-#👨‍💻 Author — Kothur Charan Reddy - STUDENT <br>
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+# 👨‍💻 Author — Kothur Charan Reddy - STUDENT <br>
+
+This project is part of my portfolio, showcasing the Data Analysis skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning.🚀
