@@ -27,41 +27,41 @@ Prepare a concise and well-structured report summarizing the main findings, insi
 
 #✅ Findings (Based on Customer Behavior Dashboard)
 
-1. Customer Demographics
-● Majority of customers belong to the 20–40 age group, indicating that the platform appeals mainly to young and middle-aged shoppers.
+1. Customer Demographics<br>
+● Majority of customers belong to the 20–40 age group, indicating that the platform appeals mainly to young and middle-aged shoppers.<br>
 ● Gender distribution shows that female customers are slightly more active, especially in fashion and lifestyle categories.
 
-2. Purchase Patterns
-● Customers frequently buy fashion, accessories, and seasonal items, making these the highest-performing categories.
-● Repeat customers contribute a large share of total revenue, showing strong loyalty for certain product types.
+2. Purchase Patterns<br>
+● Customers frequently buy fashion, accessories, and seasonal items, making these the highest-performing categories.<br>
+● Repeat customers contribute a large share of total revenue, showing strong loyalty for certain product types.<br>
 ● Purchase frequency analysis indicates that many customers return within 15–30 days, showing healthy re-engagement.
 
-3. Spending Behaviour
-● Customers with higher review ratings and frequent past purchases tend to spend 30–40% more than new customers.
+3. Spending Behaviour<br>
+● Customers with higher review ratings and frequent past purchases tend to spend 30–40% more than new customers.<br>
 ●Discounts significantly increase purchase volume, showing that pricing and offers strongly influence buying decisions.
 
-4. Product Insights
-● Items in seasonal and trending categories show the highest purchase spikes.
+4. Product Insights<br>
+● Items in seasonal and trending categories show the highest purchase spikes.<br>
 ● Some categories with high traffic have lower conversion, indicating gaps in pricing or availability.
 
-5. Ratings & Satisfaction
-● Average customer rating is moderately positive, suggesting overall satisfaction.
-● Lower ratings are mostly associated with:
-● Delivery delays
-● Wrong size or color
+5. Ratings & Satisfaction<br>
+● Average customer rating is moderately positive, suggesting overall satisfaction.<br>
+● Lower ratings are mostly associated with:<br>
+● Delivery delays<br>
+● Wrong size or color<br>
 ● Product quality inconsistency
 
-7. Subscription & Loyalty
-● Customers with an active subscription (fast shipping / rewards) have:
-● Higher purchase frequency
-● Higher cart value
+6. Subscription & Loyalty<br>
+● Customers with an active subscription (fast shipping / rewards) have:<br>
+● Higher purchase frequency<br>
+● Higher cart value<br>
 ● Lower return rates
 
-9. Location-Based Insights
-Major sales come from urban cities, where demand for fashion and lifestyle products is strongest.
+7. Location-Based Insights<br>
+Major sales come from urban cities, where demand for fashion and lifestyle products is strongest.<br>
 Rural regions show moderate activity but higher interest in low-discount and essential categories.
 
-# 👨‍💻 Author — Kothur Charan Reddy - STUDENT <br>
+# 👨‍💻 Author — Kothur Charan Reddy - STUDENT 
 
 This project is part of my portfolio, showcasing the Data Analysis skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
