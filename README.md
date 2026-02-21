@@ -7,22 +7,20 @@ This project is perfect for:
 ● 📚 Anyone learning Python, SQL, and Power BI
 ● 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 # 📌 Project Overview
-Project Workflow
+### Project Workflow
 
 This project is designed to replicate a real corporate end-to-end data analytics pipeline, demonstrating how raw data is transformed into meaningful business insights. The workflow includes the following stages:
 
 ✅ 1. Data Preparation, Modeling & Exploratory Data Analysis (Python)
-
 Clean, preprocess, and structure the raw dataset. Perform exploratory analysis to understand patterns, distributions, and data quality.
 
 ✅ 2. Data Analysis (SQL)
-
 Simulate business scenarios and run analytical SQL queries to uncover insights related to customer behavior, segmentation, loyalty patterns, and key purchase drivers.
 
 ✅ 3. Visualization & Dashboarding (Power BI)
-
 Build an interactive and visually compelling dashboard that highlights trends, patterns, and KPIs, enabling decision-makers to quickly interpret the data.
 
 ✅ 4. Reporting & Presentation
-
 Prepare a concise and well-structured report summarizing the main findings, insights, and business recommendations. Create a presentation that communicates actionable insights effectively to stakeholders.
+![image](<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/3067c5ee-fcf2-41bb-aec6-1a22a3b27a9e" />
+)
